@@ -5,28 +5,28 @@
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. operationsRutinsWhitman.
+       PROGRAM-ID. operationsRoutinsDylanThomas.
        DATA DIVISION.
        FILE SECTION.
        WORKING-STORAGE SECTION.
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
-       RUTIN01.
+       ROUTIN01.
            DISPLAY "Never until the mankind making"
-           PERFORM RUTIN03.
-       RUTIN02.
+           PERFORM ROUTIN03.
+       ROUTIN02.
            DISPLAY "Fathering and all humbling darkness"
-           PERFORM RUTIN05.
-       RUTIN03.
+           PERFORM ROUTIN05.
+       ROUTIN03.
            DISPLAY "Bird beast and flower"
-           PERFORM RUTIN02.
-       RUTIN04.
+           PERFORM ROUTIN02.
+       ROUTIN04.
            DISPLAY "And the still hour"
-           PERFORM RUTIN06.
-       RUTIN05.
+           PERFORM ROTIN06.
+       ROUTIN05.
            DISPLAY "Tells with silence the last light breaking"
-           PERFORM RUTIN04.
-       RUTIN06.
+           PERFORM ROUTIN04.
+       ROUTIN06.
            DISPLAY "Is come of the sea tumbling in harness."
            STOP RUN.
-       END PROGRAM operationsRutinsWhitman.
+       END PROGRAM operationsRoutinsDylanThomas.
