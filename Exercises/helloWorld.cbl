@@ -1,13 +1,15 @@
-             ******************************************************************
-      * Author:
-      * Date:
-      * Purpose:
-      * Tectonics: cobc
-      ******************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. Hello_World.
+       AUTHOR. NATALIA CALVO.
+       INSTALLATION. GIJON.
+       DATE-WRITTEN. MAY 03, 2023.
+       DATE-COMPILED.
+       SECURITY. UNCLASSIFIED.
+
        DATA DIVISION.
+
        FILE SECTION.
+       
        WORKING-STORAGE SECTION.
       * Esto son variables que pueden cambiar, van en esta sección.
        01 GREETINGS PIC X(11).
